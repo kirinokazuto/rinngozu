@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using static SceneLoader1;
 
 /// <summary>
 /// ボタンがクリックされたときに効果音を再生するコンポーネント。
